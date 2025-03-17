@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+# 👋 Hi, I'm Evelise!
+🎓 Economics Student | Aspiring Finances Analyst 
+📊 Interested in Economic Research & Financial Analytics  
+💡 Learning Python & R for data-driven insights 
+
 <!--
 **evelise-lopes/evelise-lopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
